@@ -33,6 +33,13 @@ p {
     line-height: 1.6;
 }
 
+.h2img {
+    justify-content: center;
+    text-align: center;
+    font-size: 30px;
+    color: rgb(154, 108, 197);
+}
+
 .secttext {
     background-color: #ffe5e5;
     padding: 20px;
